@@ -1,0 +1,27 @@
+.icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  border: 2px #df7861 solid;
+  border-radius: 0.8rem;
+  height: 1.2rem;
+  width: 1.2rem;
+
+  margin-right: 0.3rem;
+}
+
+.icon-done {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  border: 2px #df7861 solid;
+  border-radius: 0.8rem;
+  height: 1.2rem;
+  width: 1.2rem;
+  background-color: #df7861;
+  color: #fff;
+
+  margin-right: 0.3rem;
+}

@@ -1,0 +1,30 @@
+.add-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.3rem 0.3rem;
+  background-color: #df7861;
+  border-radius: 0.8rem;
+  color: #fff;
+}
+.input {
+  border: none;
+  background: none;
+  outline: none;
+  padding: 0;
+
+  border: 2px #df7861 solid;
+  width: 100%;
+  border-radius: 0.8rem;
+  padding: 0.5rem 0.5rem;
+  font-size: 1.2rem;
+  margin-right: 0.3rem;
+}
+.form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
+}

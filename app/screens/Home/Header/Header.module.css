@@ -1,0 +1,24 @@
+.conatiner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.image {
+  width: 50%;
+}
+.text {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 50%;
+  gap: 0.7rem;
+}
+.title {
+  font-size: 5rem;
+  font-weight: 500;
+}
+.about-text {
+  font-size: 1.5rem;
+}

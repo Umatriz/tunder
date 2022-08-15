@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem 0.5rem;
+  background-color: #fefbf6;
+  border-radius: 0.5rem;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.08);
+}
+.task {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.trash {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #df7861;
+  transition: 0.3s ease-in-out;
+}
+.trash:hover {
+  color: #824537;
+}

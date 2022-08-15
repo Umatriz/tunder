@@ -1,0 +1,41 @@
+.btn-github {
+  padding: 0;
+  border: none;
+  font: inherit;
+  color: inherit;
+  background-color: transparent;
+  cursor: pointer;
+
+  width: 220px;
+  height: 40px;
+  background-color: #171515;
+  text-align: center;
+  color: #fff;
+  border-radius: 0.3rem;
+
+  transition: 0.3s ease-in-out;
+}
+.btn-github:hover {
+  background-color: #3d3838;
+}
+
+.btn-discord {
+  padding: 0;
+  border: none;
+  font: inherit;
+  color: inherit;
+  background-color: transparent;
+  cursor: pointer;
+
+  width: 220px;
+  height: 40px;
+  background-color: #5865f2;
+  text-align: center;
+  color: #fff;
+  border-radius: 0.3rem;
+
+  transition: 0.3s ease-in-out;
+}
+.btn-discord:hover {
+  background-color: #747eef;
+}
